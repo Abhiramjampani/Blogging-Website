@@ -23,3 +23,51 @@ This is a simple blogging website built with Next.js and MENN stack (MongoDB, Ex
 
    ```bash
    git clone https://github.com/your-username/nextjs-blogging-website.git
+
+##Install dependencies:
+1.  Clone the repository:
+
+   ```bash
+   git clone https://github.com/Abhiramjampani/Blogging-Website/
+   ```
+2.  Navigate to the server directory:
+  ```bash
+  cd server
+  ```
+3.  Install dependencies:
+   ```bash
+   npm install
+   ```
+4.  Set up environment variables:
+    Create a .env file in the server directory and define the following variables:
+    ```bash
+    DB_USERNAME=<mongo_db_username>
+    DB_PASSWORD=<mongo_db_password>
+    ```
+5.  Run the server
+    ```bash
+    npm start
+    ```
+The server will start at the port 8000.
+
+### Client
+
+1.  Navigate to the client directory:
+  ```bash
+  cd client
+  ```
+2.  Install dependencies:
+   ```bash
+   npm install
+   ```
+3.  Run the app
+    ```bash
+    npm start
+    ```
+The client application will start and can be accessed in the browser at http://localhost:3000.
+
+## Usage
+*Create a user account or log in to unlock the full potential of the blogging website.
+*Craft compelling blog posts using the intuitive interface and Markdown support.
+*Easily edit and manage your published content, ensuring it remains relevant and up-to-date.
+*Share your thoughts, engage with readers, and foster a vibrant community around your blog.
