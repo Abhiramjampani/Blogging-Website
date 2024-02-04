@@ -2,6 +2,15 @@
 
 This is a simple blogging website built with Next.js and MENN stack (MongoDB, Express.js, Node.js, Next.js). It allows users to create, edit, and delete blog posts.
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+  - [Server](#server)
+  - [Client](#client)
+- [Usage](#usage)
+
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and log out.
@@ -67,7 +76,7 @@ The server will start at the port 8000.
 The client application will start and can be accessed in the browser at http://localhost:3000.
 
 ## Usage
-*Create a user account or log in to unlock the full potential of the blogging website.
-*Craft compelling blog posts using the intuitive interface and Markdown support.
-*Easily edit and manage your published content, ensuring it remains relevant and up-to-date.
-*Share your thoughts, engage with readers, and foster a vibrant community around your blog.
+* Create a user account or log in to unlock the full potential of the blogging website.
+* Craft compelling blog posts using the intuitive interface and Markdown support.
+* Easily edit and manage your published content, ensuring it remains relevant and up-to-date.
+* Share your thoughts, engage with readers, and foster a vibrant community around your blog.
